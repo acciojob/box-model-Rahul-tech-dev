@@ -8,7 +8,7 @@
     width: 150px;
     background-color: silver;
 }
-.red{
+.green{
     background-color: green;
     padding: 20px;
     width: 50px;
@@ -18,7 +18,7 @@
     border-radius: 50%;
     text-align: center;
 }
-.green{
+.yellow{
     background-color: yellow;
     padding: 20px;
     width: 50px;
@@ -28,7 +28,7 @@
     border-radius: 50%;
     text-align: center;
 }
-.yellow{
+.red{
     background-color: red;
     padding: 20px;
     width: 50px;
