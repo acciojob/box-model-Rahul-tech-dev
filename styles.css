@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+main{
+    display: block;
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 30px;
+    width: 150px;
+}
+#first{
+    background-color: green;
+    padding: 20px;
+    width: 40px;
+    margin-right: 6px;
+    display: inline;
+    border-radius: 50%;
+    text-align: center;
+}
+#second{
+    background-color: yellow;
+    padding: 20px;
+    width: 40px;
+    margin-right: 6px;
+    display: inline;
+    border-radius: 50%;
+    text-align: center;
+}
+#third{
+    background-color: red;
+    padding: 20px;
+    width: 40px;
+    margin-right: 6px;
+    display: inline;
+    border-radius: 50%;
+    text-align: center;
+}
